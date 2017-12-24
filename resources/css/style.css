@@ -9,11 +9,22 @@ body {
     text-align: center;
 }
 
-#mainHeading {
-    text-align: center;
-}
-
-#download {
+.download {
     color: aquamarine;
     font-size: 16px;
+}
+
+.subHeading {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.picHeading {
+    font-size: 21px;
+    color: gray;
+}
+
+#mainHeading {
+    font-size: 50px;
+    font-weight: normal;
 }

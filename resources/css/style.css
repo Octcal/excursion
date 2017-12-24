@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    font-weight: normal;
+    color: white;
+    text-align: center;
+}
+
+#mainHeading {
+    text-align: center;
+}
+
+#download {
+    color: aquamarine;
+    font-size: 16px;
+}
